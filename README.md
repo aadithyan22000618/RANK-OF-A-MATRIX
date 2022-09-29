@@ -8,6 +8,7 @@ Equipment’s required:
 Algorithm:
 Step 1:
       Import the numpy module to use the built-in functions for calculation
+
 Step 2:
       Prepare the lists from each linear equations and assign in np.array()
       
